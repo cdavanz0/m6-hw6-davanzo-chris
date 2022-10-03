@@ -36,15 +36,14 @@ section {
 	
 .link {
 	margin: 0 4px;
-	text-align: center;
 	color: white;
+	text-align: center;
 }
 
 .logo {
 	float: left;
-	margin: 0;
-	margin-right: 40px;
 	color: white;
+	margin: 0 4px;
 }
 
 .chris {
