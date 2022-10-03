@@ -28,7 +28,7 @@ main {
 }
 
 img {
-	float: right;
+	display: flex;
 	max-width: 450px;
 	margin-top: 115px;
 }
