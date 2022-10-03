@@ -28,7 +28,7 @@ main {
 	text-align: center;
 }
 
-.image {
+img {
 	float: left;
 	max-width: 450px;
 	margin-top: auto;
