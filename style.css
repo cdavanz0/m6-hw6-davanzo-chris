@@ -29,7 +29,7 @@ main {
 }
 
 img {
-	float: center;
+	float: left;
 	max-width: 450px;
 	margin-top: auto;
 	margin-right: auto;
