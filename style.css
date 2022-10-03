@@ -31,8 +31,8 @@ main {
 img {
 	float: left;
 	max-width: 450px;
-	margin-top: auto;
-	margin-right: auto;
+	margin-top: 50px;
+	margin-right: 40px;
 }
 
 section {
