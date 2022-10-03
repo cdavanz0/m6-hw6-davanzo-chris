@@ -32,7 +32,7 @@ img {
 	float: left;
 	max-width: 450px;
 	margin-top: 50px;
-	margin-right: 40px;
+	margin-left: 40px;
 }
 
 section {
@@ -50,6 +50,7 @@ section {
 .logo {
 	margin-right: auto;
 	color: white;
+	margin-left: 40px;
 }
 
 footer {
