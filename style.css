@@ -46,6 +46,10 @@ section {
 	margin: 0 4px;
 }
 
+.logo {
+	margin-right: auto;
+}
+
 footer {
 	background-color: navy;
 	padding: 24px 0;
