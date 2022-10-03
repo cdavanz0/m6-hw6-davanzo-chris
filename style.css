@@ -1,0 +1,27 @@
+body {
+	background-color: #DFDBE5
+}
+
+h1 {
+	max-width: 800px;
+	margin: auto;
+	text-align: center;
+}
+
+nav {
+	display: block;
+	text-align: center;
+}
+
+img {
+	float: right;
+	max-width: 450px;
+	margin-top: 115px;
+}
+
+section {
+	float: left;
+	max-width: 700px;
+	text-align: left;
+	font-size: 20px;
+}
