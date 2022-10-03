@@ -30,9 +30,8 @@ main {
 
 img {
 	float: left;
-	max-width: 700px;
+	max-width: 450px;
 	margin-top: 50px;
-	margin-left: 90px;
 }
 
 section {
