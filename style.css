@@ -47,9 +47,8 @@ section {
 }
 
 .logo {
-	margin-right: auto;
+	margin: 0 4px;
 	color: white;
-	margin-left: 40px;
 }
 
 footer {
